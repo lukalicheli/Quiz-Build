@@ -11,8 +11,8 @@ function App() {
       <h1>Quiz Builder</h1>
       <Landing/>
       <Create/>
-      <Login/>
-      <Signup/>
+      {/* <Login/>
+      <Signup/> */}
     </div>
   );
 }
